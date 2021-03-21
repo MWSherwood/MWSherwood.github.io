@@ -9,7 +9,7 @@ Robin LM*, Oliveira da Cruz JF*, Langlais VC*, Martin-Fernandez M, Metna-Laurent
 
 Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R, Criddle DN, Haynes L, Tepikin A. ‘Intracellular rupture, exocytosis and actin interaction of endocytic vacuoles in pancreatic acinar cells: initiating events in acute pancreatitis.’ J. Physiology. 596(13):2547–2564. 2018
 
-**Sherwood MW*/**, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP3Rs: Contribution to Ca2+ signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017
+**Sherwood MW***, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP3Rs: Contribution to Ca2+ signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017
 
 Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABAAR clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015
 
