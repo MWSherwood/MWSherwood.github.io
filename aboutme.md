@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Neuroscientist and Jazz
+subtitle: Neuroscience and ...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello my name is Mark. I was born in North Yorkshire, lived and studied in England until I was 27.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+After obtaining my Ph.D. in Liverpool I moved to Japan for my first post-doc. I now live in France.
