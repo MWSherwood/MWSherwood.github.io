@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-#Original articles (/*coauthorship)
+## Original articles (*coauthorship)
 1. Robin LM*, Oliveira da Cruz JF*, Langlais VC*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
 2. Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R, Criddle DN, Haynes L, Tepikin A. ‘Intracellular rupture, exocytosis and actin interaction of endocytic vacuoles in pancreatic acinar cells: initiating events in acute pancreatitis.’ J. Physiology. 596(13):2547–2564. 2018
 3. **Sherwood MW*/**, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP3Rs: Contribution to Ca2+ signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017
@@ -19,11 +19,11 @@ title: Publications
 13. Haynes LP, **Sherwood MW**, Dolman NJ, Burgoyne RD. ‘Specificity, promiscuity and localization of ARF protein interactions with NCS-1 and phosphatidylinositol-4 kinase-III beta.’ Traffic. Aug;8(8):1080–92. 2007
 14. Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAADP, cADPR and IP3 all release Ca2+ from the endoplasmic reticulum and an acidic store in the secretory granule area.’ J Cell Sci. Jan 15;119(Pt 2):226–38. 2006
 
-#Review articles
+## Review articles
 1. Voronina S, **Sherwood M**, Barrow S, Dolman N, Conant A, Tepikin A. ‘Downstream from calcium signalling: mitochondria, vacuoles and pancreatic acinar cell damage.’ Acta Physiol. Jan;195(1):161–9. 2009
 2. Barrow SL, **Sherwood MW**, Dolman NJ, Gerasimenko OV, Voronina SG, Tepikin AV. ‘Movement of calcium signals and calcium-binding proteins: firewalls, traps and tunnels.’ Biochem Soc Trans. Jun;34(Pt 3):381–4. 2006
 
-#Symposiums (/*invited)
+## Symposiums (*invited)
 1. *University of Bristol (Bristol UK, 2019) A novel astrocytic Ca2+ channel regulates hippocampal LTP
 2. *Dementia Research Institute UCL (London UK, 2019) A novel astrocytic Ca2+ channel regulates hippocampal LTP
 3. International Astrocyte School (Bertinoro Italy, 2018) Contribution of IP3Rs to astrocytic Ca2+ signaling and hippocampal long-term potentiation
@@ -31,7 +31,7 @@ title: Publications
 5. *French Neuroscience Society (Montpellier France, 2015) Astrocytic field recording: To better understand the role of astrocytic IP3-Receptors during LTP
 6. *20th Wellcome Trust Anniversary Symposium (Liverpool UK, 2015) Post-doc in Japan
 
-#Posters (/*prize)
+## Posters (*prize)
 1. *7th Symposium of Neurocentre Magendie (Bordeaux France, 2018) **Sherwood MW**, Ciofi P, Hisatsune C, Ebisui E, Ogawa N, Mikoshiba K, Panatier A, Oliet SHR. Astrocytic IP3Rs contribute to D-serine release and hippocampal LTP.
 2. Society for Neuroscience (Chicago USA, 2015) **Sherwood MW**, Arizono M, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR, Mikoshiba K. Hippocampal LTP depends on astrocytic IP3 receptors.
 3. Bordeaux NeuroCampus Conference, GliSyn (Bordeaux France, 2015) **Sherwood MW**, Arizono M, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR, Mikoshiba K. Hippocampal LTP depends on astrocytic IP3 receptor.
