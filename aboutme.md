@@ -5,7 +5,7 @@ subtitle: Mark W Sherwood, PhD
 ---
 Mark Sherwood obtained his undergraduate degree in Medical Biochemistry from the University of Leicester (UK). In 2007 he was awarded a Ph.D in Medicine from the University of Liverpool (UK), for his work on XXX. For his first postdoc Mark moved to the RIKEN Brain Science Institute in Japan to learn electrophysiology and to study the role of IP3Rs in spike-time dependent synaptic plasticity. This line of research is yet to bear fruit, along the way Mark switched to investigating the role of glia-neuron communications in synaptic plasticity. Misa Arizono, a PhD student at the time, made the seminal discovery of IP3R2 independent Ca2+ signalling in astrocytes. Mark built on this to demonstrate the regulation of gliotransmission and synaptic plasticity by neuronally evoked non-IP3R2 mediated astrocytic IICR.
 
-> ## Research Experience
+> # Research Experience
 
 *    **Postdoctoral Researcher**, 2017 – present\
 University of Bordeaux, Bordeaux, France\
@@ -35,7 +35,7 @@ Advisor: Dr. Takayuki Michikawa
 University of Liverpool, Liverpool, UK\
 Advisors: Prof. OH Petersen; Prof. AV Tepikin; Dr. OV Gerasimenko\
 
-> ## Education
+> # Education
 
 *    **Ph.D. in Medicine**, MONTH 2007\
 Wellcome Trust 4-year Ph.D. Studentship\
