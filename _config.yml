@@ -18,6 +18,7 @@ navbar-links:
   Publications: "publications"
   Research: "research"
   Techniques: "techniques"
+  Code: "code"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
