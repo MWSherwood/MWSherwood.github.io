@@ -16,6 +16,8 @@ author: Mark W Sherwood
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
+  Research: "research"
+  Techniques: "techniques"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
