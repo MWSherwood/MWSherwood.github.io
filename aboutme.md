@@ -24,7 +24,8 @@ RIKEN Brain Science Institute, Wako-shi, Japan\
 Advisor: Dr. Takayuki Michikawa
 *    **Postdoctoral Researcher**, 2006.10 – 2007.06\
 University of Liverpool, Liverpool, UK\
-Advisors: Prof. OH Petersen; Prof. AV Tepikin; Dr. OV Gerasimenko
+Advisors: Prof. OH Petersen; Prof. AV Tepikin; Dr. OV Gerasimenko\
+
 > ## Education
 *    **Ph.D. in Medicine**, MONTH 2007\
 Wellcome Trust 4-year Ph.D. Studentship\
