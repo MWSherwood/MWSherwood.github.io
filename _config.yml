@@ -65,7 +65,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-3780-6329
-  google-scholar: MarkWilliamSherwood@gmail.com
+  google-scholar: https://scholar.google.com/citations?hl=en&user=QoBXiOgAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
