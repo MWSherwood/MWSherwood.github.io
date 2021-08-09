@@ -2,7 +2,7 @@
 layout: post
 title: Research Tools and Techniques
 subtitle: I am using electrophysiology and two-photon imaging
-gh-repo: MWSherwood/beautiful-jekyll
+gh-repo: MWSherwood/MWSherwood.github.io
 tags: [test]
 comments: true
 ---
