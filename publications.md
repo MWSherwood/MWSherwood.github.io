@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Original articles (*coauthorship)
+## Original articles (*coauthorship, †corresponding author)
 
 Robin LM*, Oliveira da Cruz JF*, Langlais VC*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
 
@@ -35,6 +35,11 @@ Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAAD
 
 
 ## Review articles
+
+**Mark W. Sherwood*†**, Misa Arizono*†, Aude Panatier, Katsuhiko Mikoshiba and Stéphane H. R. Oliet. ‘Astrocytic IP3Rs: Beyond IP3R2.’ Front. Cell. Neurosci., 30 July 2021 | https://doi.org/10.3389/fncel.2021.695817
+
+**Sherwood MW†**, Oliet SHR, Panatier A†. ‘NMDARs, Coincidence Detectors of Astrocytic and Neuronal Activities.’ 
+Int J Mol Sci. 2021 Jul 6;22(14):7258. July 2021 | https://doi.org/10.3390/ijms22147258. PMID: 34298875
 
 Voronina S, **Sherwood M**, Barrow S, Dolman N, Conant A, Tepikin A. ‘Downstream from calcium signalling: mitochondria, vacuoles and pancreatic acinar cell damage.’ Acta Physiol. Jan;195(1):161–9. 2009
 
