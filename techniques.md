@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Techniques"
-subtitle: "?"
+subtitle: ""
 ---
 
-I use two-photon microscopy, electrophysiology, and AAV expression vectors in my research.\
+two-photon microscopy\
 
-More information is coming soon.
+electrophysiology\
+
+AAV expression vectors\
