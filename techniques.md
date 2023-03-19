@@ -4,8 +4,8 @@ title: "Techniques"
 subtitle: ""
 ---
 
-two-photon microscopy\
+###Two-photon microscopy
 
-electrophysiology\
+###Electrophysiology
 
-AAV expression vectors\
+###Stereotaxic injection
