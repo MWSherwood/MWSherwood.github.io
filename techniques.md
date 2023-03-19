@@ -4,8 +4,8 @@ title: "Techniques"
 subtitle: ""
 ---
 
-###Two-photon microscopy
+### Two-photon microscopy
 
-###Electrophysiology
+### Electrophysiology
 
-###Stereotaxic injection
+### Stereotaxic injection
