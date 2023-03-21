@@ -6,6 +6,7 @@ title: Publications
 ## Original articles (*coauthorship, †corresponding author)
 
 Robin LM*, Oliveira da Cruz JF*, Langlais VC*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
+doi: 10.1016/j.neuron.2018.04.034. PMID: [29779943](https://pubmed.ncbi.nlm.nih.gov/29779943/)
 
 Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R, Criddle DN, Haynes L, Tepikin A. ‘Intracellular rupture, exocytosis and actin interaction of endocytic vacuoles in pancreatic acinar cells: initiating events in acute pancreatitis.’ J. Physiology. 596(13):2547–2564. 2018
 
