@@ -11,7 +11,7 @@ Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R,
 
 **Sherwood MW***, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP3Rs: Contribution to Ca<sup>2+</sup> signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017
 
-Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABAAR clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015
+Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABA<sub>A</sub>R clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015
 
 Gerasimenko JV, Charlesworth RM, **Sherwood MW**, Ferdek PE, Mikoshiba K, Parrington J, Petersen OH, Gerasimenko OV. ‘Both RyRs and TPCs are required for NAADP-induced intracellular Ca2+ release.’ Cell Calcium. 58(3):237–45. 2015
 
