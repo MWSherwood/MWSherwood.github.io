@@ -63,6 +63,8 @@ Cold Spring Harbor Laboratory Conference, Glia in Health and Disease (NY USA, 20
 
 ## Posters (*prize)
 
+The 100th Anniversary Meeting of The Physiological Society of Japan (Kyoto Japan, 2023) **Sherwood MW**, Amadio A, Oliveira A, Ciofi P, Leste-Lasserre T, Arizono M, Hisatsune C, Ebisui E, Mikoshiba K, Oliet SHR and Panatier A. IP3 receptor type-1 is a key Ca2+ channel controlling NMDAR-coagonist availability and synaptic plasticity.
+
 *7th Symposium of Neurocentre Magendie (Bordeaux France, 2018) **Sherwood MW**, Ciofi P, Hisatsune C, Ebisui E, Ogawa N, Mikoshiba K, Panatier A, Oliet SHR. Astrocytic IP3Rs contribute to D-serine release and hippocampal LTP.
 
 Society for Neuroscience (Chicago USA, 2015) **Sherwood MW**, Arizono M, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR, Mikoshiba K. Hippocampal LTP depends on astrocytic IP3 receptors.
