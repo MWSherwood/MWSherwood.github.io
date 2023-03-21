@@ -17,7 +17,7 @@ Gerasimenko JV, Charlesworth RM, **Sherwood MW**, Ferdek PE, Mikoshiba K, Parrin
 
 Arizono M, Bannai H, Nakamura K, Niwa F, Enomoto M, Matsu-ura T, Miyamoto A, **Sherwood MW**, Nakamura T, and Mikoshiba K. ‘Receptor-Selective Diffusion Barrier Enhances Sensitivity of Astrocytic Processes to Metabotropic Glutamate Receptor Stimulation.’ Science Signaling. April 3; 5(218):ra27. 2012
 
-Lur G, **Sherwood MW**, Ebisui E, Haynes L, Feske S, Sutton R, Burgoyne RD, Mikoshiba K, Petersen OH and Tepikin AV. ‘InsP3 receptors and Orai channels in pancreatic acinar cells: col-localization and its consequences.’ Biochem. J. 436, 231–239. 2011
+Lur G, **Sherwood MW**, Ebisui E, Haynes L, Feske S, Sutton R, Burgoyne RD, Mikoshiba K, Petersen OH and Tepikin AV. ‘InsP3 receptors and Orai channels in pancreatic acinar cells: co-localization and its consequences.’ Biochem. J. 436, 231–239. 2011
 
 Gerasimenko JV, Lur G, Ferdek P, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Petersen OH, and Gerasimenko OV. ‘Calmodulin protects against alcohol-induced pancreatic trypsinogen activation elicited via Ca<sup>2+</sup> release through IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. April 5;108(14):5873–78. 2011
 
