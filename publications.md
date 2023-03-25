@@ -10,7 +10,7 @@ DOI: [10.1016/j.neuron.2018.04.034](https://www.cell.com/neuron/fulltext/S0896-6
 
 Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R, Criddle DN, Haynes L, Tepikin A. ‘Intracellular rupture, exocytosis and actin interaction of endocytic vacuoles in pancreatic acinar cells: initiating events in acute pancreatitis.’ J. Physiology. 596(13):2547–2564. 2018 PMID: [29717784](https://pubmed.ncbi.nlm.nih.gov/29717784/) DOI: [10.1113/JP275879](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP275879)
 
-**Sherwood MW***, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP<sub>3</sub>Rs: Contribution to Ca<sup>2+</sup> signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017
+**Sherwood MW***, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP<sub>3</sub>Rs: Contribution to Ca<sup>2+</sup> signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017 PMID: [28063222](https://pubmed.ncbi.nlm.nih.gov/28063222/) DOI: [10.1002/glia.23107](https://onlinelibrary.wiley.com/doi/10.1002/glia.23107)
 
 Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABA<sub>A</sub>R clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015
 
