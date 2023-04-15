@@ -65,7 +65,7 @@ social-network-links:
 #  calendly: yourname
   mastodon: fediscience.org/@MWSherwood
   ORCID: 0000-0002-3780-6329
-  google-scholar: QoBXiOgAAAAJ
+#  google-scholar: QoBXiOgAAAAJ
   ResearchMap: R000030318
 
 # If you want to show a link to an RSS in the footer, add the site description here.
