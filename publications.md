@@ -16,7 +16,7 @@ Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiur
 
 Gerasimenko JV, Charlesworth RM, **Sherwood MW**, Ferdek PE, Mikoshiba K, Parrington J, Petersen OH, Gerasimenko OV. ‘Both RyRs and TPCs are required for NAADP-induced intracellular Ca<sup>2+</sup> release.’ Cell Calcium. 58(3):237–45. 2015 DOI: [10.1016/j.ceca.2015.05.005](https://doi.org/10.1016/j.ceca.2015.05.005)
 
-Arizono M, Bannai H, Nakamura K, Niwa F, Enomoto M, Matsu-ura T, Miyamoto A, **Sherwood MW**, Nakamura T, and Mikoshiba K. ‘Receptor-Selective Diffusion Barrier Enhances Sensitivity of Astrocytic Processes to Metabotropic Glutamate Receptor Stimulation.’ Science Signaling. April 3; 5(218):ra27. 2012
+Arizono M, Bannai H, Nakamura K, Niwa F, Enomoto M, Matsu-ura T, Miyamoto A, **Sherwood MW**, Nakamura T, and Mikoshiba K. ‘Receptor-Selective Diffusion Barrier Enhances Sensitivity of Astrocytic Processes to Metabotropic Glutamate Receptor Stimulation.’ Science Signaling. April 3; 5(218):ra27. 2012 DOI: [10.1126/scisignal.2002498](https://doi.org/10.1126/scisignal.2002498)
 
 Lur G, **Sherwood MW**, Ebisui E, Haynes L, Feske S, Sutton R, Burgoyne RD, Mikoshiba K, Petersen OH and Tepikin AV. ‘InsP3 receptors and Orai channels in pancreatic acinar cells: co-localization and its consequences.’ Biochem. J. 436, 231–239. 2011
 
