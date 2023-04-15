@@ -14,7 +14,7 @@ Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R,
 
 Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABA<sub>A</sub>R clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015 DOI: [10.1016/j.celrep.2015.12.002](https://doi.org/10.1016/j.celrep.2015.12.002)
 
-Gerasimenko JV, Charlesworth RM, **Sherwood MW**, Ferdek PE, Mikoshiba K, Parrington J, Petersen OH, Gerasimenko OV. ‘Both RyRs and TPCs are required for NAADP-induced intracellular Ca<sup>2+</sup> release.’ Cell Calcium. 58(3):237–45. 2015
+Gerasimenko JV, Charlesworth RM, **Sherwood MW**, Ferdek PE, Mikoshiba K, Parrington J, Petersen OH, Gerasimenko OV. ‘Both RyRs and TPCs are required for NAADP-induced intracellular Ca<sup>2+</sup> release.’ Cell Calcium. 58(3):237–45. 2015 DOI: [10.1016/j.ceca.2015.05.005](https://doi.org/10.1016/j.ceca.2015.05.005)
 
 Arizono M, Bannai H, Nakamura K, Niwa F, Enomoto M, Matsu-ura T, Miyamoto A, **Sherwood MW**, Nakamura T, and Mikoshiba K. ‘Receptor-Selective Diffusion Barrier Enhances Sensitivity of Astrocytic Processes to Metabotropic Glutamate Receptor Stimulation.’ Science Signaling. April 3; 5(218):ra27. 2012
 
