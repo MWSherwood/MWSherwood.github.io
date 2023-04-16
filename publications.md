@@ -20,15 +20,15 @@ Arizono M, Bannai H, Nakamura K, Niwa F, Enomoto M, Matsu-ura T, Miyamoto A, **S
 
 Lur G, **Sherwood MW**, Ebisui E, Haynes L, Feske S, Sutton R, Burgoyne RD, Mikoshiba K, Petersen OH and Tepikin AV. ‘InsP3 receptors and Orai channels in pancreatic acinar cells: co-localization and its consequences.’ Biochem. J. 436, 231–239. 2011 DOI: [10.1042/bj20110083](https://doi.org/10.1042/bj20110083)
 
-Gerasimenko JV, Lur G, Ferdek P, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Petersen OH, and Gerasimenko OV. ‘Calmodulin protects against alcohol-induced pancreatic trypsinogen activation elicited via Ca<sup>2+</sup> release through IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. April 5;108(14):5873–78. 2011
+Gerasimenko JV, Lur G, Ferdek P, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Petersen OH, and Gerasimenko OV. ‘Calmodulin protects against alcohol-induced pancreatic trypsinogen activation elicited via Ca<sup>2+</sup> release through IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. April 5;108(14):5873–78. 2011 DOI: [10.1073/pnas.1016534108](https://doi.org/10.1073/pnas.1016534108)
 
-Gerasimenko JV, Lur G, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Gerasimenko OV, Petersen OH. ‘Pancreatic protease activation by alcohol metabolite depends on Ca<sup>2+</sup> release via acid stores IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. Jun 30;106(26):10758–63. 2009
+Gerasimenko JV, Lur G, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Gerasimenko OV, Petersen OH. ‘Pancreatic protease activation by alcohol metabolite depends on Ca<sup>2+</sup> release via acid stores IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. Jun 30;106(26):10758–63. 2009 DOI: [10.1073/pnas.0904818106](https://doi.org/10.1073/pnas.0904818106)
 
-Murphy JA, Criddle DN, **Sherwood M**, Chavanov M, Mukherjee R, McLaughlin E, Booth D, Gerasimenko JV, Raraty MGT, Ghaneh P, Neoptolemos JP, Gerasimenko OV, Tepikin AV, Green GM, Reeve JR, Petersen OH, Sutton R. ‘Direct activation of cytosolic Ca<sup>2+</sup> signaling and enzyme secretion by cholecystokinin in human pancreatic acinar cells.’ Gastroenterology. Aug;135(2):632–41. 2008
+Murphy JA, Criddle DN, **Sherwood M**, Chavanov M, Mukherjee R, McLaughlin E, Booth D, Gerasimenko JV, Raraty MGT, Ghaneh P, Neoptolemos JP, Gerasimenko OV, Tepikin AV, Green GM, Reeve JR, Petersen OH, Sutton R. ‘Direct activation of cytosolic Ca<sup>2+</sup> signaling and enzyme secretion by cholecystokinin in human pancreatic acinar cells.’ Gastroenterology. Aug;135(2):632–41. 2008 DOI:[10.1053/j.gastro.2008.05.026](https://doi.org/10.1053/j.gastro.2008.05.026)
 
-**Sherwood MW**, Prior IA, Voronina SG, Barrow SL, Woodsmith JD, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Activation of trypsinogen in large endocytic vacuoles of pancreatic acinar cells.’ Proc Natl Acad Sci U S A. Mar 27;104(13):5674–9. 2007
+**Sherwood MW**, Prior IA, Voronina SG, Barrow SL, Woodsmith JD, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Activation of trypsinogen in large endocytic vacuoles of pancreatic acinar cells.’ Proc Natl Acad Sci U S A. Mar 27;104(13):5674–9. 2007 DOI: [10.1073/pnas.0700951104](https://doi.org/10.1073/pnas.0700951104)
 
-Voronina SG, **Sherwood MW**, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Visualizing formation and dynamics of vacuoles in living cells using contrasting dextran-bound indicator: endocytic and nonendocytic vacuoles.’ Am J Physiol Gastrointest Liver Physiol. Dec;293(6):G1333–8. 2007
+Voronina SG, **Sherwood MW**, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Visualizing formation and dynamics of vacuoles in living cells using contrasting dextran-bound indicator: endocytic and nonendocytic vacuoles.’ Am J Physiol Gastrointest Liver Physiol. Dec;293(6):G1333–8. 2007 DOI: [10.1152/ajpgi.00275.2007](https://doi.org/10.1152/ajpgi.00275.2007)
 
 Haynes LP, **Sherwood MW**, Dolman NJ, Burgoyne RD. ‘Specificity, promiscuity and localization of ARF protein interactions with NCS-1 and phosphatidylinositol-4 kinase-III beta.’ Traffic. Aug;8(8):1080–92. 2007
 
