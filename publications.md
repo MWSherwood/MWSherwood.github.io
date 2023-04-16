@@ -30,9 +30,9 @@ Murphy JA, Criddle DN, **Sherwood M**, Chavanov M, Mukherjee R, McLaughlin E, Bo
 
 Voronina SG, **Sherwood MW**, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Visualizing formation and dynamics of vacuoles in living cells using contrasting dextran-bound indicator: endocytic and nonendocytic vacuoles.’ Am J Physiol Gastrointest Liver Physiol. Dec;293(6):G1333–8. 2007 DOI: [10.1152/ajpgi.00275.2007](https://doi.org/10.1152/ajpgi.00275.2007)
 
-Haynes LP, **Sherwood MW**, Dolman NJ, Burgoyne RD. ‘Specificity, promiscuity and localization of ARF protein interactions with NCS-1 and phosphatidylinositol-4 kinase-III beta.’ Traffic. Aug;8(8):1080–92. 2007
+Haynes LP, **Sherwood MW**, Dolman NJ, Burgoyne RD. ‘Specificity, promiscuity and localization of ARF protein interactions with NCS-1 and phosphatidylinositol-4 kinase-III beta.’ Traffic. Aug;8(8):1080–92. 2007 DOI: [10.1111/j.1600-0854.2007.00594.x](https://doi.org/10.1111/j.1600-0854.2007.00594.x)
 
-Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAADP, cADPR and IP<sub>3</sub> all release Ca<sup>2+</sup> from the endoplasmic reticulum and an acidic store in the secretory granule area.’ J Cell Sci. Jan 15;119(Pt 2):226–38. 2006
+Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAADP, cADPR and IP<sub>3</sub> all release Ca<sup>2+</sup> from the endoplasmic reticulum and an acidic store in the secretory granule area.’ J Cell Sci. Jan 15;119(Pt 2):226–38. 2006 DOI: [10.1242/jcs.02721](https://doi.org/10.1242/jcs.02721)
 
 
 ## Review articles
@@ -41,9 +41,9 @@ Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAAD
 
 **Sherwood MW†**, Oliet SHR, Panatier A†. ‘NMDARs, Coincidence Detectors of Astrocytic and Neuronal Activities.’ Int J Mol Sci. 2021 Jul 6;22(14):7258. July 2021 DOI: [10.3390/ijms22147258](https://doi.org/10.3390/ijms22147258) PMID: [34298875](https://pubmed.ncbi.nlm.nih.gov/34298875/)
 
-Voronina S, **Sherwood M**, Barrow S, Dolman N, Conant A, Tepikin A. ‘Downstream from calcium signalling: mitochondria, vacuoles and pancreatic acinar cell damage.’ Acta Physiol. Jan;195(1):161–9. 2009
+Voronina S, **Sherwood M**, Barrow S, Dolman N, Conant A, Tepikin A. ‘Downstream from calcium signalling: mitochondria, vacuoles and pancreatic acinar cell damage.’ Acta Physiol. Jan;195(1):161–9. 2009 DOI: [10.1111/j.1748-1716.2008.01931.x](https://doi.org/10.1111/j.1748-1716.2008.01931.x)
 
-Barrow SL, **Sherwood MW**, Dolman NJ, Gerasimenko OV, Voronina SG, Tepikin AV. ‘Movement of calcium signals and calcium-binding proteins: firewalls, traps and tunnels.’ Biochem Soc Trans. Jun;34(Pt 3):381–4. 2006
+Barrow SL, **Sherwood MW**, Dolman NJ, Gerasimenko OV, Voronina SG, Tepikin AV. ‘Movement of calcium signals and calcium-binding proteins: firewalls, traps and tunnels.’ Biochem Soc Trans. Jun;34(Pt 3):381–4. 2006 DOI: [10.1042/bst0340381](https://doi.org/10.1042/bst0340381)
 
 
 ## Symposiums (*invited)
