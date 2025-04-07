@@ -40,7 +40,7 @@ Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAAD
 
 ## Review articles
 
-**Sherwood MW**, Misa Arizono, Aude Panatier, Katsuhiko Mikoshiba and Stéphane H. R. Oliet. ‘Astrocytic IP<sub>3</sub>Rs: Beyond IP<sub>3</sub>R2.’ Front. Cell. Neurosci. 30 July. 2021 DOI: [10.3389/fncel.2021.695817](https://doi.org/10.3389/fncel.2021.695817)
+**Sherwood MW*†**, Misa Arizono*†, Aude Panatier, Katsuhiko Mikoshiba and Stéphane H. R. Oliet. ‘Astrocytic IP<sub>3</sub>Rs: Beyond IP<sub>3</sub>R2.’ Front. Cell. Neurosci. 30 July. 2021 DOI: [10.3389/fncel.2021.695817](https://doi.org/10.3389/fncel.2021.695817)
 
 **Sherwood MW†**, Oliet SHR, Panatier A†. ‘NMDARs, Coincidence Detectors of Astrocytic and Neuronal Activities.’ Int J Mol Sci. 2021 Jul 6;22(14):7258. July 2021 DOI: [10.3390/ijms22147258](https://doi.org/10.3390/ijms22147258) PMID: [34298875](https://pubmed.ncbi.nlm.nih.gov/34298875/)
 
