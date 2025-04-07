@@ -5,6 +5,9 @@ title: Publications
 
 ## Original articles (*coauthorship, †corresponding author)
 
+Soma S'*', Hayatsu N'*', Nomura K'*', **Sherwood MW'*'**, Murakami T'*', Sugiyama Y, Suematsu N, Aoki T, Yamada Y, Asayama M, Kaneko M, Ohbayashi K, Arizono M, Ohtsuka M, Hamada S, Matsumoto I, Iwasaki Y, Ohno N, Okazaki Y, Taruno A. 'Channel synapse mediates neurotransmission of airway protective chemoreflexes.' Cell. 2025
+DOI: [10.1016/j.cell.2025.03.007](https://www.cell.com/cell/fulltext/S0092-8674(25)00280-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867425002806%3Fshowall%3Dtrue) PMID: [40187347](https://pubmed.ncbi.nlm.nih.gov/40187347/)
+
 Robin LM, Oliveira da Cruz JF, Langlais VC*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
 DOI: [10.1016/j.neuron.2018.04.034](https://www.cell.com/neuron/fulltext/S0896-6273(18)30369-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318303696%3Fshowall%3Dtrue) PMID: [29779943](https://pubmed.ncbi.nlm.nih.gov/29779943/)
 
