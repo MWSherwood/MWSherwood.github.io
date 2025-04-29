@@ -7,10 +7,16 @@ Mark obtained his undergraduate degree in Medical Biochemistry from the Universi
 
 Misa Arizono, a PhD student at the time, made the seminal discovery of IP3R2 independent Ca2+ signalling in astrocytes. Mark built on this to demonstrate the regulation of gliotransmission and synaptic plasticity by neuronally evoked non-IP3R2 mediated astrocytic IP3-induced Ca2+ Release. To study the role of IP3R dependent gliotransmission in more depth Mark moved to the Oliet laboratory in Bordeaux. Working with Dr. Aude Panatier, Mark discovered a novel form of activity dependent gliotransmission.
 
-Having exhausted available French postdoc funding, in 2021 Mark moved to Kyoto (Japan) and joined the laboratory of Akiyuki Taruno who is studying taste.
+In 2021 Mark moved to Kyoto (Japan) and joined the laboratory of Akiyuki Taruno to study taste perception. During his stay Mark implemented in vivo imaging of taste cells and developed mice lines expressing voltage and ATP sensors.
+
+In 2024 Mark joined the team of Misa Aizono.
 
 ## Research Experience
-*    **Assistant Professor**, 2022.04 - to date\
+*    **Program-Specific Senior Lecturer**, 2024.05 – to date\
+Kyoto University, Graduate School of Medicine, Kyoto, Japan\
+Principle Investigator: Dr. Misa Arizono
+
+*    **Assistant Professor**, 2022.04 - 2024.04\
 Kyoto Prefectural University of Medicine, Kyoto, Japan\
 Principal Investigator: Prof. Akiyuki Taruno
 
