@@ -8,12 +8,12 @@ title: Publications
 Soma S\*, Hayatsu N\*, Nomura K\*, **Sherwood MW\***, Murakami T\*, Sugiyama Y, Suematsu N, Aoki T, Yamada Y, Asayama M, Kaneko M, Ohbayashi K, Arizono M, Ohtsuka M, Hamada S, Matsumoto I, Iwasaki Y, Ohno N, Okazaki Y, Taruno A. 'Channel synapse mediates neurotransmission of airway protective chemoreflexes.' Cell. 2025
 DOI: [10.1016/j.cell.2025.03.007](https://www.cell.com/cell/fulltext/S0092-8674(25)00280-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867425002806%3Fshowall%3Dtrue) PMID: [40187347](https://pubmed.ncbi.nlm.nih.gov/40187347/)
 
-Robin LM, Oliveira da Cruz JF, Langlais VC*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
+Robin LM\*, Oliveira da Cruz JF\*, Langlais VC\*, Martin-Fernandez M, Metna-Laurent M, Busquets-Garcia A, Bellocchio L, Soria-Gomez E, Papouin T, Varilh M, **Sherwood MW**, Belluomo I, Matias I, Bosier B, Drago F, Eeckhaut AV, Smolders I, Georges F, Araque A, Panatier A, Oliet SHR and Marsicano G. ‘Astroglial CB1 receptors determine synaptic D-serine availability to enable recognition memory.’ Neuron. 6;98(5):935–944. 2018
 DOI: [10.1016/j.neuron.2018.04.034](https://www.cell.com/neuron/fulltext/S0896-6273(18)30369-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627318303696%3Fshowall%3Dtrue) PMID: [29779943](https://pubmed.ncbi.nlm.nih.gov/29779943/)
 
 Chvanov M, De Faveri F, Moore D, **Sherwood MW**, Awais M, Voronina S, Sutton R, Criddle DN, Haynes L, Tepikin A. ‘Intracellular rupture, exocytosis and actin interaction of endocytic vacuoles in pancreatic acinar cells: initiating events in acute pancreatitis.’ J. Physiology. 596(13):2547–2564. 2018 PMID: [29717784](https://pubmed.ncbi.nlm.nih.gov/29717784/) DOI: [10.1113/JP275879](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP275879)
 
-**Sherwood MW***, Arizono M*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP<sub>3</sub>Rs: Contribution to Ca<sup>2+</sup> signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017 PMID: [28063222](https://pubmed.ncbi.nlm.nih.gov/28063222/) DOI: [10.1002/glia.23107](https://onlinelibrary.wiley.com/doi/10.1002/glia.23107)
+**Sherwood MW\***, Arizono M\*, Hisatsune C, Bannai H, Ebisui E, Sherwood JL, Panatier A, Oliet SHR and Mikoshiba K. ‘Astrocytic IP<sub>3</sub>Rs: Contribution to Ca<sup>2+</sup> signalling and hippocampal LTP.’ Glia. 65(3):502–513. 2017 PMID: [28063222](https://pubmed.ncbi.nlm.nih.gov/28063222/) DOI: [10.1002/glia.23107](https://onlinelibrary.wiley.com/doi/10.1002/glia.23107)
 
 Bannai H, Niwa F, **Sherwood MW**, Shrivastava AN, Arizono M, Miyamoto A, Sugiura K, Levi S, Triller A and Mikoshiba K. ‘Bidirectional control of synaptic GABA<sub>A</sub>R clustering by glutamate and calcium.’ Cell Reports. 13, 1–13. 2015 DOI: [10.1016/j.celrep.2015.12.002](https://doi.org/10.1016/j.celrep.2015.12.002)
 
@@ -40,9 +40,9 @@ Gerasimenko JV, **Sherwood M**, Tepikin AV, Petersen OH, Gerasimenko OV. ‘NAAD
 
 ## Review articles
 
-**Sherwood MW***†, Misa Arizono*†, Aude Panatier, Katsuhiko Mikoshiba and Stéphane H. R. Oliet. ‘Astrocytic IP<sub>3</sub>Rs: Beyond IP<sub>3</sub>R2.’ Front. Cell. Neurosci. 30 July. 2021 DOI: [10.3389/fncel.2021.695817](https://doi.org/10.3389/fncel.2021.695817)
+**Sherwood MW\*†**, Misa Arizono\*†, Aude Panatier, Katsuhiko Mikoshiba and Stéphane H. R. Oliet. ‘Astrocytic IP<sub>3</sub>Rs: Beyond IP<sub>3</sub>R2.’ Front. Cell. Neurosci. 30 July. 2021 DOI: [10.3389/fncel.2021.695817](https://doi.org/10.3389/fncel.2021.695817)
 
-**Sherwood MW**†, Oliet SHR, Panatier A†. ‘NMDARs, Coincidence Detectors of Astrocytic and Neuronal Activities.’ Int J Mol Sci. 2021 Jul 6;22(14):7258. July 2021 DOI: [10.3390/ijms22147258](https://doi.org/10.3390/ijms22147258) PMID: [34298875](https://pubmed.ncbi.nlm.nih.gov/34298875/)
+**Sherwood MW†**, Oliet SHR, Panatier A†. ‘NMDARs, Coincidence Detectors of Astrocytic and Neuronal Activities.’ Int J Mol Sci. 2021 Jul 6;22(14):7258. July 2021 DOI: [10.3390/ijms22147258](https://doi.org/10.3390/ijms22147258) PMID: [34298875](https://pubmed.ncbi.nlm.nih.gov/34298875/)
 
 Voronina S, **Sherwood M**, Barrow S, Dolman N, Conant A, Tepikin A. ‘Downstream from calcium signalling: mitochondria, vacuoles and pancreatic acinar cell damage.’ Acta Physiol. Jan;195(1):161–9. 2009 DOI: [10.1111/j.1748-1716.2008.01931.x](https://doi.org/10.1111/j.1748-1716.2008.01931.x)
 
