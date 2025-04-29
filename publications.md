@@ -27,7 +27,7 @@ Gerasimenko JV, Lur G, Ferdek P, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshib
 
 Gerasimenko JV, Lur G, **Sherwood MW**, Ebisui E, Tepikin AV, Mikoshiba K, Gerasimenko OV, Petersen OH. ‘Pancreatic protease activation by alcohol metabolite depends on Ca<sup>2+</sup> release via acid stores IP<sub>3</sub> receptors.’ Proc Natl Acad Sci U S A. Jun 30;106(26):10758–10763. 2009 DOI: [10.1073/pnas.0904818106](https://doi.org/10.1073/pnas.0904818106)
 
-Murphy JA, Criddle DN, **Sherwood M**, Chavanov M, Mukherjee R, McLaughlin E, Booth D, Gerasimenko JV, Raraty MGT, Ghaneh P, Neoptolemos JP, Gerasimenko OV, Tepikin AV, Green GM, Reeve JR, Petersen OH, Sutton R. ‘Direct activation of cytosolic Ca<sup>2+</sup> signaling and enzyme secretion by cholecystokinin in human pancreatic acinar cells.’ Gastroenterology. Aug;135(2):632–41. 2008 DOI:[10.1053/j.gastro.2008.05.026](https://doi.org/10.1053/j.gastro.2008.05.026)
+Murphy JA\*, Criddle DN\*, **Sherwood M**, Chavanov M, Mukherjee R, McLaughlin E, Booth D, Gerasimenko JV, Raraty MGT, Ghaneh P, Neoptolemos JP, Gerasimenko OV, Tepikin AV, Green GM, Reeve JR, Petersen OH, Sutton R. ‘Direct activation of cytosolic Ca<sup>2+</sup> signaling and enzyme secretion by cholecystokinin in human pancreatic acinar cells.’ Gastroenterology. Aug;135(2):632–41. 2008 DOI:[10.1053/j.gastro.2008.05.026](https://doi.org/10.1053/j.gastro.2008.05.026)
 
 **Sherwood MW**, Prior IA, Voronina SG, Barrow SL, Woodsmith JD, Gerasimenko OV, Petersen OH, Tepikin AV. ‘Activation of trypsinogen in large endocytic vacuoles of pancreatic acinar cells.’ Proc Natl Acad Sci U S A. Mar 27;104(13):5674–9. 2007 DOI: [10.1073/pnas.0700951104](https://doi.org/10.1073/pnas.0700951104)
 
