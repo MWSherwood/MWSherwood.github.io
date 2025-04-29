@@ -22,31 +22,39 @@ Principal Investigator: Prof. Akiyuki Taruno
 
 *    **Postdoctoral Researcher**, 2017 – 2021.07.31\
 University of Bordeaux, Bordeaux, France\
-Advisor: Dr. Stéphane HR Oliet
+Principle Investigator: Dr. Stéphane HR Oliet
 
 *    **Takeda Science Foundation Postdoctoral Fellow**, 2016.11 – 2017.10\
 RIKEN Brain Science Institute, Wako-shi, Japan\
-Advisor: Dr. Katsuhiko Mikoshiba
+Principle Investigator: Dr. Katsuhiko Mikoshiba
 
 *    **Postdoctoral Researcher**, 2013.11 – 2016.10\
 Institut François Magendie, Bordeaux, France\
-Advisor: Dr. Stéphane HR Oliet
+Principle Investigator: Dr. Stéphane HR Oliet
 
-*    **RIKEN-FPR Fellow**, 2010.XX – 2013.XX\
+*    **Postdoctoral Researcher**, 2013.04 – 2013.10
 RIKEN Brain Science Institute, Wako-shi, Japan\
+Principle Investigator: Dr Katsuhiko Mikoshiba
+
+*    **RIKEN-FPR Fellow**, 2010.04 – 2013.03\
+RIKEN Brain Science Institute, Wako-shi, Japan\
+Principle Investigator: Dr Katsuhiko Mikoshiba
 Advisor: Dr. Takayuki Michikawa
 
-*    **JSPS Postdoctoral Fellow**, 2008.XX – 2010.XX\
+*    **JSPS Postdoctoral Fellow**, 2008.09 – 2010.03\
 RIKEN Brain Science Institute, Wako-shi, Japan\
+Principle Investigator: Dr Katsuhiko Mikoshiba
 Advisor: Dr. Takayuki Michikawa
 
 *    **Uehara Memorial Foundation Postdoctoral Fellow**, 2007.07\
 RIKEN Brain Science Institute, Wako-shi, Japan\
+Principle Investigator: Dr Katsuhiko Mikoshiba
 Advisor: Dr. Takayuki Michikawa
 
 *    **Postdoctoral Researcher**, 2006.10 – 2007.06\
 University of Liverpool, Liverpool, UK\
-Advisors: Prof. OH Petersen; Prof. AV Tepikin; Dr. OV Gerasimenko
+Principle Investigator: Prof. OH Petersen
+Advisor: Prof. AV Tepikin; Dr. OV Gerasimenko
 
 ## Education
 *    **Ph.D. in Medicine**, MONTH 2007\
