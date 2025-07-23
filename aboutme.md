@@ -3,8 +3,7 @@ layout: page
 title: About me
 subtitle: Mark W Sherwood, PhD
 ---
-Mark Sherwood is a physiologist with a keen interest in calcium signaling and the structure–function relationships that underlie this fundamental cellular process. After completing his Ph.D. at the University of Liverpool in 2007, he joined the RIKEN Brain Science Institute (BSI) in Japan. There, he collaborated with Misa Arizono, who had just uncovered IP3R2-independent calcium signaling in astrocytes—a discovery that challenged existing models of glial function. Working with Misa and the Oliet Lab in Bordeaux (France) Mark helped show that astrocytic IP3 receptors play a critical role in regulating synaptic plasticity.
-In 2021, he shifted focus to chemosensation, joining Akiyuki Taruno’s lab at Kyoto Prefectural University of Medicine, where he used in vivo imaging and genetically encoded sensors to study sensory signaling in the tongue and throat. Three years later, he returned to glial biology, rejoining Misa Arizono’s team to further investigate how astrocytes contribute to neural computation and plasticity.
+Mark Sherwood is a physiologist with a keen interest in calcium signaling and the structure–function relationships that underlie this fundamental cellular process. 
 
 ## Research Experience
 *    **Program-Specific Senior Lecturer**, 2024.05 – to date\
